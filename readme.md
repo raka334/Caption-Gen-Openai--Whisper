@@ -1,5 +1,3 @@
-Your provided script successfully combines audio extraction, transcription, and SRT file segmentation with timestamp splitting. Below is a detailed explanation of its functionality and improvements to make it more streamlined and error-free:
-
 ### Key Features of the Script:
 1. **Audio Extraction from Video:**
    - Uses FFmpeg to extract audio from video files.
